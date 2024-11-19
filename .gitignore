@@ -1,0 +1,6 @@
+plots
+*test*
+/scripts/*/
+*backup*
+analysis.mlx
+/otherscripts
